@@ -3,7 +3,7 @@ class script(object):
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ✯ 𝙾𝚆𝙽𝙴𝚁 : <a href=https://t.me/King_suriya12>𝗦𝗨𝗥𝗬𝗔 𝗥𝗔𝗦𝗜𝗚𝗔𝗡</a>
-✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/Gowthaman2008>𝙶𝙾𝚆𝚃𝙷𝙰𝙼𝙰𝙽</a>
+✯ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/King_suriya12>𝗦𝗨𝗥𝗬𝗔 𝗥𝗔𝗦𝗜𝗚𝗔𝗡</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
@@ -13,7 +13,7 @@ class script(object):
 ⚡ POWERED BY›› <a href=https://t.me/GM_Botzz> Gᴍ Bᴏᴛᴢᴢ™</a></b>"""
 
     SOURCE_TXT = """
-<b>👨‍💻𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/Gowthaman2008>𝙶𝚘𝚠𝚝𝚑𝚊𝚖𝚊𝚗⚡</a>
+<b>👨‍💻𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁: <a href=https://t.me/King_suriya12>𝗦𝗨𝗥𝗬𝗔 𝗥𝗔𝗦𝗜𝗚𝗔𝗡</a>
 
 📍𝚃𝙾 𝙼𝙰𝙺𝙴 𝙰𝙽𝚈 𝙱𝙾𝚃
 📍𝚃𝙾 𝙱𝚄𝚈 𝚁𝙴𝙿𝙾
